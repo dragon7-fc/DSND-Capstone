@@ -1,0 +1,13 @@
+# jupyter notebook
+.ipynb_checkpoints
+
+#vs-code
+.vscode
+
+# mac osx
+.DS_Store
+
+# Arvato data
+arvato_data
+*.xlsx
+
