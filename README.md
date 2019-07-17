@@ -2,9 +2,22 @@
 
 [//]: # (Image References)
 
-[image1]: ./imgs/intro.png "demo"
-[image2]: ./imgs/dataset.png "dataset"
-[image3]: ./imgs/svd.png "svd"
+[image1]: ./imgs/missing_value.png "missing_value"
+[image2]: ./imgs/formatit_missing_value.png "formatit_missing_value"
+[image3]: ./imgs/categorical.png "categorical"
+[image4]: ./imgs/quantitative.png "quantitative"
+[image5]: ./imgs/cap_outlier.png "cap_outlier"
+[image6]: ./imgs/drop.png "drop"
+[image7]: ./imgs/pca.png "pca"
+[image8]: ./imgs/kmeans.png "kmeans"
+[image9]: ./imgs/cluster.png "cluster"
+[image10]: ./imgs/diff_feature.png "diff_feature"
+[image11]: ./imgs/train.png "train"
+[image12]: ./imgs/model.png "model"
+[image13]: ./imgs/xgboost.png "xgboost"
+
+
+
 
 ### Table of Contents
 
@@ -70,17 +83,62 @@ Or you can run below command to setup the environment.
 
 ### Results <a name="results"></a>:
 
-* 
+* Data Preprocessing
+    * missing value distribution 
 
-![alt text][image1]
+    ![alt text][image1]
 
-* 
+    * missing value distribution after change unknown value to NA
 
-![alt text][image2]
+    ![alt text][image2]
 
-* 
+    * categorical feature
 
-![alt text][image3]
+    ![alt text][image3]
+
+    * quantitative feature
+
+    ![alt text][image4]
+
+    * quantitative feature after log transform and outlier caping
+
+    ![alt text][image5]
+
+    * drop
+
+    ![alt text][image6]
+
+* Customer Segmentation Report
+    * PCA
+
+    ![alt text][image7]
+
+    * KMeans
+
+    ![alt text][image8]
+
+    * cluster
+
+    ![alt text][image9]
+
+    * feature difference
+
+    ![alt text][image10]
+
+* Supervised Learning Model
+
+    * data distribution
+
+    ![alt text][image11]
+
+    * model selection
+
+    ![alt text][image12]
+
+    * XGBoost
+
+    ![alt text][image13]
+
 
 The main findings of the code can be found at the post available [here]().
 
