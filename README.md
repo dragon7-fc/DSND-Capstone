@@ -140,7 +140,7 @@ Or you can run below command to setup the environment.
     ![alt text][image13]
 
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@dragon7.fc/do-you-know-how-to-cluster-or-predict-target-customers-with-machine-learning-355336f2ce6b).
 
 ### Terms & Conditions <a name="terms"></a>:
 In addition to Udacity's Terms of Use and other policies, your downloading and use of the AZ Direct GmbH data solely for use in the Unsupervised Learning and Bertelsmann Capstone projects are governed by the following additional terms and conditions. The big takeaways:
