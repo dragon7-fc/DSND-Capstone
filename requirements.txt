@@ -83,7 +83,7 @@ libarchive-c==2.8
 lightgbm==2.2.3
 llvmlite==0.20.0
 locket==0.2.0
-lxml==4.1.0
+lxml==4.9.1
 MarkupSafe==1.0
 matplotlib==3.0.2
 mccabe==0.6.1
